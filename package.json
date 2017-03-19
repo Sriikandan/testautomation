@@ -1,5 +1,5 @@
 {
-  "name": "ABC interview test",
+  "name": "ABCinterviewtest",
   "version": "0.0.1",
   "description": "acceptance testing using cucumber-js and webdriver-js.",
   "repository": {
