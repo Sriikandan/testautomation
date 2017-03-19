@@ -1,4 +1,4 @@
-# Automated Testing in JavaScript with Cucumber-JS and Selenium-Webdriver
+# ABC Automated Testing in JavaScript with Cucumber-JS and Selenium-Webdriver
 
 ABC test automation using cucumber-js and selenium-webdriver to run browser-based automated tests.
 I have completed the framework with few test and  will continue to update as required
@@ -15,4 +15,5 @@ If all seems OK, Ctrl+C to get rid of that, and carry on:
     git clone
     cd testautomation
     npm install
+    npm install grunt --save-dev
 
