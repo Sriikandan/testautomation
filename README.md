@@ -17,3 +17,8 @@ If all seems OK, Ctrl+C to get rid of that, and carry on:
     npm install
     npm install grunt --save-dev
 
+Please run the test from the working directory using:
+  
+    npm test
+  
+ 
