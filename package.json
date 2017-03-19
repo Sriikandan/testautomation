@@ -1,0 +1,25 @@
+{
+  "name": "ABC interview test",
+  "version": "0.0.1",
+  "description": "acceptance testing using cucumber-js and webdriver-js.",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "devDependencies": {
+    "appium": "^1.5.2",
+    "chai": "^3.5.0",
+    "cucumber": "^0.10.2",
+    "frisby": "^0.8.5",
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-env": "^0.4.4",
+    "grunt-exec": "^0.4.7",
+    "sanitize-filename": "^1.6.0",
+    "selenium-webdriver": "^2.53.2"
+  }
+}
